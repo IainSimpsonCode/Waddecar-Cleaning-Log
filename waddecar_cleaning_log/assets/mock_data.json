@@ -1,0 +1,102 @@
+[
+  {
+    "priority": 1,
+    "title": "Clean Lobby",
+    "description": "Vacuum and dust the lobby area",
+    "location": "Main Building",
+    "jobType": "Cleaning",
+    "completion": 0,
+    "dueBy": "2025-08-15T10:00:00.000Z",
+    "availableFrom": "2025-08-10T08:00:00.000Z"
+  },
+  {
+    "priority": 2,
+    "title": "Window Washing",
+    "description": "Wash all front windows",
+    "location": "Front Entrance",
+    "jobType": "Cleaning",
+    "completion": 2,
+    "dueBy": "2025-08-15T10:00:00.000Z",
+    "availableFrom": "2025-08-09T08:00:00.000Z"
+  },
+  {
+    "priority": 3,
+    "title": "Mop Hallway Floors",
+    "description": "Mop and disinfect all hallway floors on Level 2",
+    "location": "Level 2 Hallways",
+    "jobType": "Cleaning",
+    "completion": 1,
+    "dueBy": "2025-08-20T16:00:00.000Z",
+    "availableFrom": "2025-08-18T08:00:00.000Z"
+  },
+  {
+    "priority": 1,
+    "title": "Replace Light Bulbs",
+    "description": "Replace any burnt-out bulbs in the lobby and conference rooms",
+    "location": "Main Building",
+    "jobType": "Maintenance",
+    "completion": 0,
+    "dueBy": "2025-08-13T12:00:00.000Z",
+    "availableFrom": "2025-08-12T09:00:00.000Z"
+  },
+  {
+    "priority": 4,
+    "title": "Clean Meeting Room Carpets",
+    "description": "Deep clean the carpets in all meeting rooms",
+    "location": "Conference Wing",
+    "jobType": "Cleaning",
+    "completion": 0,
+    "dueBy": "2025-08-25T18:00:00.000Z",
+    "availableFrom": "2025-08-20T08:00:00.000Z"
+  },
+  {
+    "priority": 2,
+    "title": "Air Conditioning Service",
+    "description": "Perform routine service on air conditioning units",
+    "location": "Roof",
+    "jobType": "Maintenance",
+    "completion": 1,
+    "dueBy": "2025-08-22T15:00:00.000Z",
+    "availableFrom": "2025-08-19T08:00:00.000Z"
+  },
+  {
+    "priority": 3,
+    "title": "Clean Kitchen Area",
+    "description": "Wipe down surfaces, mop floor, and empty bins in the staff kitchen",
+    "location": "Staff Kitchen",
+    "jobType": "Cleaning",
+    "completion": 0,
+    "dueBy": "2025-08-01T08:00:00.000Z",
+    "availableFrom": "2025-07-09T07:00:00.000Z"
+  },
+  {
+    "priority": 5,
+    "title": "Elevator Inspection",
+    "description": "Inspect and service all elevators for safety compliance",
+    "location": "All Floors",
+    "jobType": "Maintenance",
+    "completion": 2,
+    "dueBy": "2025-08-08T17:00:00.000Z",
+    "availableFrom": "2025-08-01T08:00:00.000Z"
+  },
+  {
+    "priority": 1,
+    "title": "Polish Entrance Doors",
+    "description": "Polish the brass entrance doors to remove smudges",
+    "location": "Main Entrance",
+    "jobType": "Cleaning",
+    "completion": 2,
+    "dueBy": "2025-08-14T12:00:00.000Z",
+    "availableFrom": "2025-08-05T08:00:00.000Z"
+  },
+  {
+    "priority": 4,
+    "title": "Plumbing Leak Repair",
+    "description": "Repair leaking pipe under the sink in the restroom",
+    "location": "Ground Floor Restroom",
+    "jobType": "Maintenance",
+    "completion": 0,
+    "dueBy": "2025-08-14T12:00:00.000Z",
+    "availableFrom": "2025-08-11T08:00:00.000Z"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586775190474",
+    "project_id": "waddecar-cleaning-log",
+    "storage_bucket": "waddecar-cleaning-log.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586775190474:android:69d683663678612a554d33",
+        "android_client_info": {
+          "package_name": "com.example.waddecar_cleaning_log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDStMAKcYKoxD2Im_5qTpaCIA3tOETvf-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
